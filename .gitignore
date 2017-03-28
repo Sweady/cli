@@ -1,6 +1,0 @@
-*.retry
-tmp/
-/.idea/
-terraform.tfstate
-terraform.tfvars
-terraform.tfstate.backup
